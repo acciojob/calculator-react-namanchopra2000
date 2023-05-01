@@ -1,6 +1,6 @@
 
 # Calculator
-The task is to create a react based calculator which can perform the following operations:
+The task is to  naman     khgfdktysrjzdgfhghcreate a react based calculator which can perform the following operations:
 -  Addition
 -  Subtraction
 -  Division
